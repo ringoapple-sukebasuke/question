@@ -1,0 +1,11 @@
+li {
+    list-style: none;
+    width:50%;
+    float: left;
+}
+img {
+    width: 70%;
+}
+.col {
+    display: flex;
+}
